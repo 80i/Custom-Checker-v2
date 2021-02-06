@@ -26,9 +26,8 @@ K4 = int(input(Fore.CYAN+"""
         [2] SoundCloud
         [3] Github
         [4] Twitch
-        [5] Instagram
         
-        [6] Custom link
+        [5] Custom link
         Choose one : """+Fore.WHITE))
 webss = ''
 webs = ''
@@ -45,11 +44,8 @@ elif K4 == 4 :
     webss = 'm.twitch.tv/'
     webs = "Twitch"
 elif K4 == 5 :
-    webss = 'instagram.com/'
-    webs = "Instagram"
-elif K4 == 6 :
     webss = str(input("Type your link here (without \'https://\') : "))
-    webs = webss
+    webs = webs
 else:
     print('Error, please choose correct number.. ')
     time.sleep(3)
