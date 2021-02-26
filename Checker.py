@@ -6,7 +6,7 @@ os.system("cls" or "clear")
 os.system("title Custom Username Checker V2     By K4Sp3r")
 print(Fore.RED+"""
 
-Discord Server :  https://discord.gg/eJeHG7D6pm
+Discord Server :  https://discord.gg/HWdgMvFFdY
         My Discord : @K4Sp3r#1337
    _____ _               _                     ___  
   / ____| |             | |                   |__ \ 
